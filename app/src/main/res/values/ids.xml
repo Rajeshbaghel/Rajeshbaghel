@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textprogress" type="id" />
+    <item name="rootContainer" type="id" />
+    <item name="scrollContent" type="id" />
+    <item name="prgDownload" type="id" />
+</resources>
