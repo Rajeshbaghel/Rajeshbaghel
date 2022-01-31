@@ -23,6 +23,18 @@ public class MainActivity3 extends AppCompatActivity {
         scrollContent = findViewById(R.id.scrollContent);
 
         for (int i = 0; i < 11; i++) {
+
+
+
+
+
+
+
+
+
+
+
+
             progressBar = new ProgressBar(this, null);
             LinearLayout.LayoutParams layoutParams = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT);
             layoutParams.setMargins(30, 30, 30, 30);
